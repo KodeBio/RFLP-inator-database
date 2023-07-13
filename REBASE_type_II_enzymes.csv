@@ -1,0 +1,266 @@
+"Nombre","Patron","Isoesquizomeros","NombreYPatron","NomforShi","27F_926R","27F_1492R"
+"AarI","CACCTGC(4/8)","PaqCI","AarI [CACCTGC(4/8)]","AarI",1,1
+"AatII","GACGT^C","Ssp5230I","AatII [GACGT^C]","a_AatII",1,1
+"AatII","GAC^GTC","ZraI","AatII [GAC^GTC]","b_AatII",1,1
+"AbsI","CC^TCGAGG","","AbsI [CC^TCGAGG]","AbsI",1,1
+"AccI","GT^MKAC","FblI, XmiI","AccI [GT^MKAC]","AccI",1,1
+"AceIII","CAGCTC(7/11)","","AceIII [CAGCTC(7/11)]","AceIII",1,1
+"AciI","CCGC(-3/-1)","SsiI","AciI [CCGC(-3/-1)]","AciI",1,1
+"AclI","AA^CGTT","Psp1406I","AclI [AA^CGTT]","AclI",1,1
+"AcyI","GR^CGYC","AhaII, AosII, AstWI, AsuIII, BbiII, BssNI, BstACI, HgiI, HgiHII, Hin1I, Hsp92I, Msp17I, PamII","AcyI [GR^CGYC]","AcyI",1,1
+"AflII","C^TTAAG","BfrI, BspTI, Bst98I, BstAFI, BstPZ740I, Esp4I, MspCI, Vha464I","AflII [C^TTAAG]","AflII",1,1
+"AgeI","A^CCGGT","AsiAI, AsiGI, BshTI, CsiAI, CspAI, PinAI","AgeI [A^CCGGT]","AgeI",1,1
+"AhaIII","TTT^AAA","PauAII, SruI","AhaIII [TTT^AAA]","AhaIII",1,1
+"AjuI","(7/12)GAANNNNNNNTTGG(11/6)","","AjuI [(7/12)GAANNNNNNNTTGG(11/6)]","AjuI",1,1
+"AlfI","(10/12)GCANNNNNNTGC(12/10)","","AlfI [(10/12)GCANNNNNNTGC(12/10)]","AlfI",1,1
+"AluI","AG^CT","MltI","AluI [AG^CT]","AluI",1,1
+"AlwNI","CAGNNN^CTG","CaiI, PstNI","AlwNI [CAGNNN^CTG]","AlwNI",1,1
+"AoxI","^GGCC","","AoxI [^GGCC]","AoxI",1,1
+"ApaBI","GCANNNNN^TGC","","ApaBI [GCANNNNN^TGC]","ApaBI",1,1
+"ApaI","G^GGCCC","Bsp120I","ApaI [G^GGCCC]","a_ApaI",1,1
+"ApaI","GGGCC^C","PpeI","ApaI [GGGCC^C]","b_ApaI",1,1
+"ApaLI","G^TGCAC","Alw44I, SnoI, VneI","ApaLI [G^TGCAC]","ApaLI",1,1
+"ApoI","R^AATTY","AcsI, CfaI, FsiI, XapI","ApoI [R^AATTY]","ApoI",1,1
+"ArsI","(8/13)GACNNNNNNTTYG(11/6)","","ArsI [(8/13)GACNNNNNNTTYG(11/6)]","ArsI",1,1
+"AscI","GG^CGCGCC","PalAI, SgsI","AscI [GG^CGCGCC]","AscI",1,1
+"AspBHI","YSCNS(8/12)","","AspBHI [YSCNS(8/12)]","AspBHI",1,1
+"AsuI","G^GNCC","AvcI, Bac36I, Bal228I, BavAII, BavBII, Bce22I, BmgT120I, BshKI, BsiZI, Bsp1894I, BspBII, BspF4I, Bsu54I, CcuI, MaeK81II, NspIV, Nsp7121I, Pde12I","AsuI [G^GNCC]","a_AsuI",1,1
+"AsuI","GGNC^C","FmuI","AsuI [GGNC^C]","b_AsuI",1,1
+"AsuI","^GGNCC","UnbI","AsuI [^GGNCC]","c_AsuI",1,1
+"AsuII","TT^CGAA","AcpI, Asp10HI, BimI, Bim19I, Bpu14I, BsiCI, Bsp119I, BspLAII, BspT104I, BstBI, CbiI, Csp45I, Csp68KII, FspII, LspI, MlaI, NspV, PlaII, PpaAI, SfuI, Ssp1I, SspRFI, SviI","AsuII [TT^CGAA]","AsuII",1,1
+"AvaI","C^YCGRG","Ama87I, BcoI, BmeT110I, Bse15I, BsiHKCI, BspLU4I, BstSI, Eco88I, Eco27kI, NspSAI, OfoI, PlaAI, PunAI","AvaI [C^YCGRG]","a_AvaI",1,2
+"AvaI","CYCGR^G","Nli3877I","AvaI [CYCGR^G]","b_AvaI",1,2
+"AvaII","G^GWCC","AflI, Asp745I, BamNII, BcuAI, Bme18I, Bme216I, BmpI, BsrAI, BthAI, CauI, DsaIV, EagMI, Eco47I, ErpI, FdiI, FspMSI, HgiHIII, HgiJI, Kzo49I, MspNI, SmuEI, VpaK11BI","AvaII [G^GWCC]","a_AvaII",1,2
+"AvaII","GGWC^C","Psp03I","AvaII [GGWC^C]","b_AvaII",1,2
+"AvaII","^GGWCC","VpaK11AI","AvaII [^GGWCC]","c_AvaII",1,2
+"AvaIII","ATGCA^T","Asi372I, BfrBI, Csp68KIII, EcoT22I, Mph1103I, PinBI, SepI, SspD5II, Zsp2I","AvaIII [ATGCA^T]","a_AvaIII",1,2
+"AvaIII","A^TGCAT","Ppu10I","AvaIII [A^TGCAT]","b_AvaIII",1,2
+"AvrII","C^CTAGG","AspA2I, AvrBII, BlnI, BspA2I, XmaJI","AvrII [C^CTAGG]","AvrII",1,2
+"BalI","TGG^CCA","MlsI, Mlu31I, MluNI, Mox20I, MscI, Msp20I","BalI [TGG^CCA]","BalI",1,2
+"BamHI","G^GATCC","AccEBI, AliI, ApaCI, AsiI, Bce751I, Bsp4009I, BspAAIII, CelI, GstI, Mlu23I, Nsp29132II, NspSAIV, OkrAI, Pfl8I, RspLKII, SolI, SurI, Uba4009I","BamHI [G^GATCC]","BamHI",1,2
+"BarI","(7/12)GAAGNNNNNNTAC(12/7)","","BarI [(7/12)GAAGNNNNNNTAC(12/7)]","BarI",2,2
+"BbvCI","CCTCAGC(-5/-2)","AbeI","BbvCI [CCTCAGC(-5/-2)]","BbvCI",2,2
+"BbvI","GCAGC(8/12)","AlwXI, BseKI, BseXI, Bsp423I, Bst12I, Bst71I, BstV1I, GeoICI","BbvI [GCAGC(8/12)]","BbvI",2,2
+"BbvII","GAAGAC(2/6)","Bbr7I, BbsI, Bbv16II, BpiI, BpuAI, Bsc91I, BspBS31I, BspTS514I, BstBS32I, BstTS5I, BstV2I","BbvII [GAAGAC(2/6)]","BbvII",2,2
+"Bce83I","CTTGAG(16/14)","","Bce83I [CTTGAG(16/14)]","Bce83I",2,2
+"BcefI","ACGGC(12/13)","","BcefI [ACGGC(12/13)]","BcefI",2,2
+"BciVI","GTATCC(6/5)","BfuI, BsuI","BciVI [GTATCC(6/5)]","BciVI",2,2
+"BclI","T^GATCA","AbaI, BsiQI, BspXII, BstT7I, FbaI, Ksp22I, ParI","BclI [T^GATCA]","BclI",2,2
+"BdaI","(10/12)TGANNNNNNTCA(12/10)","","BdaI [(10/12)TGANNNNNNTCA(12/10)]","BdaI",2,2
+"BetI","W^CCGGW","Bca77I","BetI [W^CCGGW]","BetI",2,2
+"BfiI","ACTGGG(5/4)","BmuI","BfiI [ACTGGG(5/4)]","BfiI",2,2
+"BglI","GCCNNNN^NGGC","Psp1009I, Tsp8EI","BglI [GCCNNNN^NGGC]","BglI",2,2
+"BglII","A^GATCT","NcrI, NspMACI, Pae2kI, Pae18kI","BglII [A^GATCT]","BglII",2,2
+"BinI","GGATC(4/5)","AclWI, BspPI, BstH9I, Bst31TI, EacI","BinI [GGATC(4/5)]","BinI",2,2
+"BisI","GC^NGC","BsoFI, ElmI, FbrI, Fnu4HI, GluI, ItaI, Rfl17I, SatI, Uur960I","BisI [GC^NGC]","a_BisI",2,2
+"BisI","GCN^GC","BlsI, PkrI","BisI [GCN^GC]","b_BisI",2,2
+"BplI","(8/13)GAGNNNNNCTC(13/8)","","BplI [(8/13)GAGNNNNNCTC(13/8)]","BplI",2,2
+"Bpu10I","CCTNAGC(-5/-2)","BpuDI","Bpu10I [CCTNAGC(-5/-2)]","Bpu10I",2,2
+"BsaAI","YAC^GTR","BstBAI, MspYI, Ppu21I, PsuAI","BsaAI [YAC^GTR]","BsaAI",2,2
+"BsaBI","GATNN^NNATC","Bse8I, BseJI, Bsh1365I, BsiBI, BsrBRI","BsaBI [GATNN^NNATC]","BsaBI",2,2
+"BsaXI","(9/12)ACNNNNNCTCC(10/7)","","BsaXI [(9/12)ACNNNNNCTCC(10/7)]","BsaXI",2,2
+"BsePI","G^CGCGC","BstBZ153I, PauI, PteI","BsePI [G^CGCGC]","BsePI",2,2
+"BseSI","GKGCM^C","BstSLI","BseSI [GKGCM^C]","BseSI",2,2
+"BseYI","CCCAGC(-5/-1)","PspFI","BseYI [CCCAGC(-5/-1)]","a_BseYI",2,2
+"BseYI","CCCAGC(-1/-5)","GsaI","BseYI [CCCAGC(-1/-5)]","b_BseYI",2,2
+"BsiI","CACGAG(-5/-1)","BauI, Bst2BI","BsiI [CACGAG(-5/-1)]","BsiI",2,2
+"BsiYI","CCNNNNN^NNGG","AfiI, BflI, Bsc107I, BseLI, Bst22I","BsiYI [CCNNNNN^NNGG]","BsiYI",2,2
+"BsmAI","GTCTC(1/5)","BsoMAI, BstMAI","BsmAI [GTCTC(1/5)]","BsmAI",2,2
+"BsmI","GAATGC(1/-1)","Asp26HI, Asp27HI, Asp35HI, Asp36HI, Asp40HI, Asp50HI, BmaHI, BsaMI, BscCI, Mva1269I, PctI","BsmI [GAATGC(1/-1)]","BsmI",2,2
+"Bsp1407I","T^GTACA","AauI, BsmRI, BsrGI, BstAUI, Ssp4800I, SspBI","Bsp1407I [T^GTACA]","Bsp1407I",2,2
+"Bsp24I","(8/13)GACNNNNNNTGG(12/7)","","Bsp24I [(8/13)GACNNNNNNTGG(12/7)]","Bsp24I",2,2
+"BspHI","T^CATGA","CciI, PagI, RcaI, RspXI","BspHI [T^CATGA]","BspHI",2,2
+"BspLU11I","A^CATGT","PciI, PscI","BspLU11I [A^CATGT]","BspLU11I",2,2
+"BspMI","ACCTGC(4/8)","Acc36I, BveI","BspMI [ACCTGC(4/8)]","BspMI",2,2
+"BspMII","T^CCGGA","Aor13HI, BbvAIII, BlfI, BseAI, BsiMI, Bsp13I, BspEI, Bsu23I, CauB3I, MroI, PinBII, PtaI","BspMII [T^CCGGA]","BspMII",2,2
+"BsrBI","CCGCTC(-3/-3)","AccBSI, BstD102I, Bst31NI, MbiI","BsrBI [CCGCTC(-3/-3)]","BsrBI",2,2
+"BsrDI","GCAATG(2/0)","Bse3DI, BseMI","BsrDI [GCAATG(2/0)]","BsrDI",2,2
+"BsrI","ACTGG(1/-1)","Bse1I, BseNI, BsrSI, Bst11I, Tsp1I","BsrI [ACTGG(1/-1)]","BsrI",2,2
+"BstEII","G^GTNACC","AcrII, AspAI, Bse64I, BseT9I, BseT10I, BsiKI, BstPI, BstT9I, BstT10I, Eci125I, Eco91I, EcoO65I, EcoO128I, NspSAII, PspEI","BstEII [G^GTNACC]","BstEII",2,3
+"BstXI","CCANNNNN^NTGG","BstHZ55I","BstXI [CCANNNNN^NTGG]","BstXI",2,3
+"BtrI","CACGTC(-3/-3)","AjiI, BmgBI","BtrI [CACGTC(-3/-3)]","BtrI",2,3
+"BtsI","GCAGTG(2/0)","","BtsI [GCAGTG(2/0)]","BtsI",2,3
+"BtsIMutI","CAGTG(2/0)","","BtsIMutI [CAGTG(2/0)]","BtsIMutI",2,3
+"CauII","CC^SGG","AhaI, AseII, AsuC2I, BpuMI, HgiS22I, Mgl14481I","CauII [CC^SGG]","a_CauII",2,3
+"CauII","^CCSGG","Kpn49kII","CauII [^CCSGG]","b_CauII",2,3
+"CdiI","CATCG(-1/-1)","","CdiI [CATCG(-1/-1)]","CdiI",2,3
+"Cfr10I","R^CCGGY","Bco118I, Bse118I, BssAI, BstB7SI","Cfr10I [R^CCGGY]","Cfr10I",3,3
+"CfrI","Y^GGCCR","AcoI, Bfi89I","CfrI [Y^GGCCR]","CfrI",3,3
+"CjePI","(7/13)CCANNNNNNNTC(14/8)","","CjePI [(7/13)CCANNNNNNNTC(14/8)]","CjePI",3,3
+"ClaI","AT^CGAT","AagI, BanIII, BavCI, BbvAII, Bci29I, BciBI, BcmI, BdiI, Bli41I, Bli86I, BliAI, BliRI, Bsa29I, BscI, BshVI, BsiXI, BspDI, BspJII, BspOVII, BspXI, BspZEI, Bst28I, BstNZ169I, BsuTUI, LcaI, LplI, PgaI, Rme21I, SpmI, Ssp27144I, ZhoI","ClaI [AT^CGAT]","ClaI",3,3
+"CviJI","RG^CY","CviKI-1","CviJI [RG^CY]","CviJI",3,3
+"CviRI","TG^CA","HpyCH4V, HpyF44III","CviRI [TG^CA]","CviRI",3,3
+"DdeI","C^TNAG","BstDEI, BstJZ301I, HpyF3I","DdeI [C^TNAG]","DdeI",3,3
+"DpnI","GA^TC","CfuI, MalI","DpnI [GA^TC]","DpnI",3,3
+"DraII","RG^GNCCY","","DraII [RG^GNCCY]","a_DraII",3,3
+"DraII","RGGNC^CY","Kaz48kI, PssI","DraII [RGGNC^CY]","b_DraII",3,3
+"DraIII","CACNNN^GTG","AdeI, BstIZ316I","DraIII [CACNNN^GTG]","DraIII",3,3
+"DrdI","GACNNNN^NNGTC","AasI, DseDI","DrdI [GACNNNN^NNGTC]","DrdI",3,3
+"DsaI","C^CRYGG","BstDSI, BtgI, TspBI","DsaI [C^CRYGG]","DsaI",3,3
+"Eam1105I","GACNNN^NNGTC","AspEI, BmeRI, BspOVI, DriI, EclHKI, NruGI","Eam1105I [GACNNN^NNGTC]","Eam1105I",3,3
+"EciI","GGCGGA(11/9)","","EciI [GGCGGA(11/9)]","EciI",3,3
+"Eco31I","GGTCTC(1/5)","Bli736I, Bso31I, BspTNI, Bsu537I, EcoA4I, EcoO44I","Eco31I [GGTCTC(1/5)]","Eco31I",3,3
+"Eco47III","AGC^GCT","AfeI, AitI, Aor51HI, FunI","Eco47III [AGC^GCT]","Eco47III",3,3
+"Eco57I","CTGAAG(16/14)","BspKT5I","Eco57I [CTGAAG(16/14)]","Eco57I",3,3
+"Eco57MI","CTGRAG(16/14)","","Eco57MI [CTGRAG(16/14)]","Eco57MI",3,3
+"EcoBLMcrX","RCSRC(-3/-2)","","EcoBLMcrX [RCSRC(-3/-2)]","EcoBLMcrX",3,3
+"EcoNI","CCTNN^NNNAGG","BstENI, XagI","EcoNI [CCTNN^NNNAGG]","EcoNI",3,3
+"EcoRI","G^AATTC","Bci528I, FunII, HalI, Kpn49kI, LraI, Ppu111I, Srl32DII, Srl55DI","EcoRI [G^AATTC]","EcoRI",3,3
+"EcoRII","CC^WGG","AeuI, AglI, AorI, ApaORI, ApyI, BciBII, BciT130I, BptI, Bse16I, Bse17I, Bse24I, BseBI, BshGI, BsiLI, BspNI, Bst1I, Bst2I, Bst38I, Bst100I, BstM6I, BstOI, Bst2UI, BthDI, BthEI, CbrI, CthII, Fsp1604I, SniI, SslI, Sth117I, Sth302I, TaqXI, UbaLAI, ZanI","EcoRII [CC^WGG]","a_EcoRII",3,4
+"EcoRII","^CCWGG","Psp6I, SleI, SspAI","EcoRII [^CCWGG]","b_EcoRII",3,4
+"EcoRV","GAT^ATC","CeqI, Eco32I, HjaI, HpyCI, NsiCI, SepMI","EcoRV [GAT^ATC]","EcoRV",3,4
+"Esp3I","CGTCTC(1/5)","BstGZ53I","Esp3I [CGTCTC(1/5)]","Esp3I",3,4
+"EspI","GC^TNAGC","Bpu1102I, Bsp1720I, CelII","EspI [GC^TNAGC]","EspI",3,4
+"FaiI","YA^TR","","FaiI [YA^TR]","FaiI",3,4
+"FalI","(8/13)AAGNNNNNCTT(13/8)","","FalI [(8/13)AAGNNNNNCTT(13/8)]","FalI",3,4
+"FauI","CCCGC(4/6)","Bme585I, BstFZ438I, SmuI","FauI [CCCGC(4/6)]","FauI",3,4
+"FinI","GGGAC(10/14)","BslFI, BstOZ616I, FaqI","FinI [GGGAC(10/14)]","FinI",3,4
+"FnuDII","CG^CG","BceBI, Bpu95I, Bsh1236I, Bsp50I, Bsp123I, BspFNI, BstFNI, Bsu1532I, BtkI, Csp68KVI, FalII, FauBII, MvnI","FnuDII [CG^CG]","a_FnuDII",3,4
+"FnuDII","^CGCG","SelI","FnuDII [^CGCG]","b_FnuDII",4,4
+"FokI","GGATG(2/0)","BseGI, BtsCI","FokI [GGATG(2/0)]","FokI",4,4
+"FseI","GGCCGG^CC","RigI","FseI [GGCCGG^CC]","FseI",4,4
+"FspAI","RTGC^GCAY","","FspAI [RTGC^GCAY]","FspAI",4,4
+"GdiII","CGGCCR(-5/-1)","","GdiII [CGGCCR(-5/-1)]","GdiII",4,4
+"GlaI","GC^GC","","GlaI [GC^GC]","GlaI",4,4
+"GsuI","CTGGAG(16/14)","","GsuI [CTGGAG(16/14)]","GsuI",4,4
+"HaeI","WGG^CCW","","HaeI [WGG^CCW]","HaeI",4,4
+"HaeII","RGCGC^Y","AccB2I, BfoI, Bsp143II, BstH2I","HaeII [RGCGC^Y]","a_HaeII",4,4
+"HaeII","RGC^GCY","Bme142I, LpnI","HaeII [RGC^GCY]","b_HaeII",4,4
+"HaeIII","GG^CC","BanAI, BecAII, Bim19II, Bme361I, BseQI, BshI, BshFI, BsnI, Bsp211I, BspANI, BspBRI, BspKI, BteI, CltI, DsaII, MchAII, MfoAI, NspLKI, PalI, Pde133I, PflKI, PlaI, Pru2I, SbvI, SfaI","HaeIII [GG^CC]","HaeIII",4,4
+"HgaI","GACGC(5/10)","CseI","HgaI [GACGC(5/10)]","HgaI",4,4
+"HgiAI","GWGCW^C","Alw21I, AspHI, Bbv12I, Bsh45I, BsiHKAI, Bsm6I, MspV281I","HgiAI [GWGCW^C]","HgiAI",4,4
+"HgiCI","G^GYRCC","AccB1I, BbvBI, BshNI, BspT107I, Eco64I, HgiHI, MspB4I, PfaAI","HgiCI [G^GYRCC]","HgiCI",4,4
+"HgiJII","GRGCY^C","BpuI, Bsp519I, Bsu1854I, BvuI, Eco24I, Eco75KI, FriOI, KoxII, PaeHI, SacNI","HgiJII [GRGCY^C]","HgiJII",4,4
+"HhaI","GCG^C","AspLEI, BspLAI, BstHHI, CfoI, FnuDIII","HhaI [GCG^C]","a_HhaI",4,4
+"HhaI","G^CGC","BbtI, Hin6I, HsoI, SciNI","HhaI [G^CGC]","b_HhaI",4,4
+"Hin4I","(8/13)GAYNNNNNVTC(13/8)","","Hin4I [(8/13)GAYNNNNNVTC(13/8)]","Hin4I",4,4
+"Hin4II","CCTTC(6/5)","","Hin4II [CCTTC(6/5)]","Hin4II",4,4
+"HindII","GTY^RAC","HinJCI","HindII [GTY^RAC]","HindII",4,4
+"HindIII","A^AGCTT","BbrI, BspKT8I, BspLAIII, BstFI, HsuI, SsbI","HindIII [A^AGCTT]","HindIII",4,4
+"HinfI","G^ANTC","FnuAI","HinfI [G^ANTC]","HinfI",4,5
+"HpaI","GTT^AAC","BstEZ359I, BstHPI, KspAI, SsrI","HpaI [GTT^AAC]","HpaI",4,5
+"HpaII","C^CGG","Bco27I, BsiSI, Bst40I, Hin2I, MnoI, Pde137I, SmoLI, Sth134I","HpaII [C^CGG]","a_HpaII",4,5
+"HpaII","CC^GG","Sth302II","HpaII [CC^GG]","b_HpaII",4,5
+"HphI","GGTGA(8/7)","AsuHPI","HphI [GGTGA(8/7)]","a_HphI",4,5
+"HphI","GGTGA(8/8)","SspD5I","HphI [GGTGA(8/8)]","b_HphI",4,5
+"Hpy178III","TC^NNGA","Hpy188III","Hpy178III [TC^NNGA]","Hpy178III",4,5
+"KpnI","G^GTACC","AhaB8I, Asp718I, SthI","KpnI [G^GTACC]","KpnI",4,5
+"Ksp632I","CTCTTC(1/4)","Bco5I, Bco116I, BseZI, Bst6I, Bsu6I, CatHI, Eam1104I","Ksp632I [CTCTTC(1/4)]","Ksp632I",4,5
+"LmnI","GCTCC(1/-1)","","LmnI [GCTCC(1/-1)]","LmnI",4,5
+"LpnPI","CCDG(10/14)","","LpnPI [CCDG(10/14)]","LpnPI",5,5
+"MaeI","C^TAG","BfaI, CchI, FgoI, FspBI, RmaI, SspMI, XspI","MaeI [C^TAG]","MaeI",5,5
+"MaeII","A^CGT","HpySE526I","MaeII [A^CGT]","a_MaeII",5,5
+"MaeII","ACGT^","TaiI, TscI, Tsp49I","MaeII [ACGT^]","b_MaeII",5,5
+"MaeIII","^GTNAC","","MaeIII [^GTNAC]","MaeIII",5,5
+"MauBI","CG^CGCGCG","","MauBI [CG^CGCGCG]","MauBI",5,5
+"MboI","G^ATC","Asi256I","MboI [G^ATC]","a_MboI",5,5
+"MboI","^GATC","AspMDI, Bce243I, Bfi57I, Bme12I, BscFI, Bsp67I, Bsp105I, Bsp143I, Bsp2095I, BspAI, BspFI, BspJI, BspKMI, BssMI, Bst19II, BstENII, BstMBI, BtkII, CacI, CcyI, CpfI, FnuCI, FnuEI, HacI, Kzo9I, LlaAI, MgoI, MkrAI, NdeII, NlaII, NmeCI, NphI, PbrTI, RalF40I, SauMI, SsiAI, SsiBI","MboI [^GATC]","b_MboI",5,5
+"MboI","GAT^C","BspKT6I, BstKTI","MboI [GAT^C]","c_MboI",5,5
+"MboI","GATC^","ChaI","MboI [GATC^]","d_MboI",5,5
+"McrI","CGRY^CG","BsaOI, Bsh1285I, BsiEI, BstMCI","McrI [CGRY^CG]","McrI",5,6
+"MjaIV","GTN^NAC","Hpy166II, HpyBII","MjaIV [GTN^NAC]","MjaIV",5,6
+"MluI","A^CGCGT","Bbi24I","MluI [A^CGCGT]","MluI",5,6
+"MseI","T^TAA","SaqAI, Tru1I, Tru9I","MseI [T^TAA]","MseI",5,6
+"MslI","CAYNN^NNRTG","RseI, SmiMI","MslI [CAYNN^NNRTG]","MslI",5,6
+"MstI","TGC^GCA","Acc16I, AosI, AviII, FdiII, NsbI, PamI, Pun14627I","MstI [TGC^GCA]","MstI",5,6
+"MteI","GCGC^NGCGC","","MteI [GCGC^NGCGC]","MteI",5,6
+"MwoI","GCNNNNN^NNGC","Bce4I, BceCI, BspWI, BstMWI, HpyF10VI","MwoI [GCNNNNN^NNGC]","MwoI",5,6
+"NaeI","GCC^GGC","CcoI, KroNI, PdiI, SauBMKI, SauHPI, SauNI, SauSI, Slu1777I, SspCI","NaeI [GCC^GGC]","a_NaeI",5,6
+"NaeI","G^CCGGC","KroI, MroNI, SceIII, SrlI","NaeI [G^CCGGC]","b_NaeI",5,6
+"NaeI","GCCGG^C","MspGI","NaeI [GCCGG^C]","c_NaeI",5,6
+"NarI","GGCGC^C","BbeI, BinSII","NarI [GGCGC^C]","a_NarI",5,6
+"NarI","GGC^GCC","DinI, Eco78I, EgeI, EheI","NarI [GGC^GCC]","b_NarI",5,6
+"NarI","GG^CGCC","MchI, Mly113I, NdaI, NunII, SseAI","NarI [GG^CGCC]","c_NarI",5,6
+"NarI","G^GCGCC","SspDI","NarI [G^GCGCC]","d_NarI",5,6
+"NcoI","C^CATGG","Bsp19I","NcoI [C^CATGG]","NcoI",5,6
+"NdeI","CA^TATG","FauNDI, PfaAII","NdeI [CA^TATG]","NdeI",5,6
+"NheI","GCTAG^C","AceII, BspOI","NheI [GCTAG^C]","a_NheI",5,6
+"NheI","G^CTAGC","AsuNHI, LlaG2I, PstNHI","NheI [G^CTAGC]","b_NheI",5,6
+"NlaIII","CATG^","FaeI, Hin1II, HpyCH4I, Hsp92II","NlaIII [CATG^]","NlaIII",5,6
+"NlaIV","GGN^NCC","AspNI, BmiI, BscBI, BspLI, PspN4I","NlaIV [GGN^NCC]","NlaIV",5,6
+"NotI","GC^GGCCGC","CciNI, CsiBI, CspBI, MchAI","NotI [GC^GGCCGC]","NotI",5,6
+"NruI","TCG^CGA","Bsp68I, BtuMI, MluB2I, RruI, Sbo13I, SpoI","NruI [TCG^CGA]","NruI",5,6
+"NspBII","CMG^CKG","","NspBII [CMG^CKG]","NspBII",5,6
+"NspI","RCATG^Y","AvoI, BstNSI, PauAI, PunAII, XceI","NspI [RCATG^Y]","NspI",5,6
+"OliI","CACNN^NNGTG","","OliI [CACNN^NNGTG]","OliI",6,6
+"PacI","TTAAT^TAA","","PacI [TTAAT^TAA]","PacI",6,6
+"PasI","CC^CWGGG","","PasI [CC^CWGGG]","PasI",6,6
+"PcsI","WCGNNNN^NNNCGW","","PcsI [WCGNNNN^NNNCGW]","PcsI",6,6
+"Pfl8569I","GCN^NGC","PaePS50I, Pam7902I","Pfl8569I [GCN^NGC]","Pfl8569I",6,6
+"PflMI","CCANNNN^NTGG","AccB7I, AcpII, Asp10HII, BasI, PflBI, Van91I","PflMI [CCANNNN^NTGG]","PflMI",6,6
+"PfoI","T^CCNGGA","","PfoI [T^CCNGGA]","PfoI",6,6
+"PleI","GAGTC(4/6)","BspD6I","PleI [GAGTC(4/6)]","a_PleI",6,6
+"PleI","GAGTC(4/5)","PpsI","PleI [GAGTC(4/5)]","b_PleI",6,6
+"PleI","GAGTC(5/5)","SchI","PleI [GAGTC(5/5)]","c_PleI",6,6
+"PmaCI","CAC^GTG","AcvI, BbrPI, BcoAI, Eco72I, PspCI","PmaCI [CAC^GTG]","PmaCI",6,6
+"PmeI","GTTT^AAAC","MssI","PmeI [GTTT^AAAC]","PmeI",6,6
+"PpuMI","RG^GWCCY","AspBHII, Pfl27I, PpuXI, Psp5II, PspPPI","PpuMI [RG^GWCCY]","PpuMI",6,6
+"PshAI","GACNN^NNGTC","BoxI, BstPAI","PshAI [GACNN^NNGTC]","PshAI",6,6
+"PsiI","TTA^TAA","AanI","PsiI [TTA^TAA]","PsiI",6,6
+"PspXI","VC^TCGAGB","","PspXI [VC^TCGAGB]","PspXI",6,6
+"PsrI","(7/12)GAACNNNNNNTAC(12/7)","","PsrI [(7/12)GAACNNNNNNTAC(12/7)]","PsrI",6,6
+"PstI","CTGCA^G","AjoI, AliAJI, ApiI, Asp713I, BloHII, Bsp63I, BspBI, BspMAI, CflI, CfrA4I, CfuII, CstI, Ecl37kI, Ecl2zI, HalII, MhaAI, PaeHII, Pfl21I, Psp23I, Sag16I, Sag23I, SalPI, SflI, Srl5DI, Sst12I, XcpI, YenI","PstI [CTGCA^G]","PstI",6,6
+"PvuI","CGAT^CG","Afa16RI, BpvUI, BspCI, EagBI, ErhB9I, MvrI, NblI, Ple19I, Psu161I","PvuI [CGAT^CG]","PvuI",6,6
+"PvuII","CAG^CTG","BamGI, BavI, BavAI, BavBI, Bsp153AI, BspM39I, BspO4I, DmaI, EclI, NmeRI, Pae17kI, Pun14627II, Pvu84II, Uba153AI, UbaM39I","PvuII [CAG^CTG]","PvuII",6,6
+"RleAI","CCCACA(12/9)","","RleAI [CCCACA(12/9)]","RleAI",6,6
+"RsaI","GT^AC","AfaI, HpyBI, PlaAII","RsaI [GT^AC]","a_RsaI",6,6
+"RsaI","G^TAC","Csp6I, RsaNI","RsaI [G^TAC]","b_RsaI",6,6
+"RsrII","CG^GWCCG","CpoI, CspI, Rsr2I","RsrII [CG^GWCCG]","RsrII",6,6
+"SacI","GAG^CTC","BpuAmI, Ecl136II, EcoICRI, Eco53kI, MxaI","SacI [GAG^CTC]","a_SacI",6,6
+"SacI","GAGCT^C","Psp124BI, SstI","SacI [GAGCT^C]","b_SacI",6,6
+"SacI","(7/5)GAGCTC(5/7)","UcoMSI","SacI [(7/5)GAGCTC(5/7)]","c_SacI",6,6
+"SacII","CCGC^GG","CscI, Eae46I, GalI, GceI, GceGLI, Kpn378I, KspI, Mpr154I, NgoPIII, PaeAI, PaeQI, Pae5kI, Pae14kI, RaqI, SchZI, SenPT14bI, SexBI, SexCI, Sfr303I, SgrBI, SpuI, SstII","SacII [CCGC^GG]","SacII",6,7
+"SalI","G^TCGAC","BspMKI, HgiCIII, NopI, RflFI, RtrI, Rtr63I, XciI","SalI [G^TCGAC]","SalI",6,7
+"SanDI","GG^GWCCC","KflI, Sse1825I","SanDI [GG^GWCCC]","SanDI",6,7
+"SapI","GCTCTTC(1/4)","BspQI, LguI, PciSI, VpaK32I","SapI [GCTCTTC(1/4)]","SapI",6,7
+"SauI","CC^TNAGG","AocI, AxyI, BliHKI, Bse21I, BspR7I, CvnI, Eco81I, Lmu60I, MstII, OxaNI, SshAI","SauI [CC^TNAGG]","SauI",6,7
+"ScaI","AGT^ACT","Acc113I, AssI, BmcAI, Bpa34I, DpaI, Eco255I, RflFII, ZrmI","ScaI [AGT^ACT]","ScaI",6,7
+"ScrFI","CC^NGG","Bme1390I, BmrFI, Msp67I, MspR9I","ScrFI [CC^NGG]","a_ScrFI",6,7
+"ScrFI","^CCNGG","BstMZ611I, BstSCI, Eco13kI, Eco21kI, Eco137kI, MmoSTI","ScrFI [^CCNGG]","b_ScrFI",6,7
+"SduI","GDGCH^C","AocII, BmyI, BsoCI, BspLS2I, MhlI, NspII","SduI [GDGCH^C]","SduI",6,7
+"SecI","C^CNNGG","BseDI","SecI [C^CNNGG]","SecI",6,7
+"SetI","ASST^","","SetI [ASST^]","SetI",6,7
+"SexAI","A^CCWGGT","CsiI, MabI","SexAI [A^CCWGGT]","SexAI",6,7
+"SfaNI","GCATC(5/9)","BmsI, LweI, PhaI","SfaNI [GCATC(5/9)]","a_SfaNI",6,7
+"SfaNI","GCATC(4/6)","Bst19I","SfaNI [GCATC(4/6)]","b_SfaNI",6,7
+"SfeI","C^TRYAG","BdiSI, BfmI, BpcI, BstSFI, BthP35I, LlaBI, SfcI, Srl56DI","SfeI [C^TRYAG]","SfeI",6,7
+"SfiI","GGCCNNNN^NGGCC","SdiI","SfiI [GGCCNNNN^NGGCC]","SfiI",6,7
+"SgfI","GCGAT^CGC","RgaI, SfaAI","SgfI [GCGAT^CGC]","SgfI",6,7
+"SgrDI","CG^TCGACG","","SgrDI [CG^TCGACG]","SgrDI",6,7
+"SgrTI","CCDS(10/14)","","SgrTI [CCDS(10/14)]","SgrTI",7,7
+"SimI","GGGTC(-3/0)","BssIMI","SimI [GGGTC(-3/0)]","SimI",7,7
+"SmaI","C^CCGGG","AhyI, EaeAI, EclRI, PspAI, XmaCI","SmaI [C^CCGGG]","a_SmaI",7,7
+"SmaI","CCC^GGG","CfrJ4I, PaeBI, PspALI","SmaI [CCC^GGG]","b_SmaI",7,7
+"SmlI","C^TYRAG","SmoI","SmlI [C^TYRAG]","SmlI",7,7
+"SnaBI","TAC^GTA","BstSNI, Eco105I","SnaBI [TAC^GTA]","SnaBI",7,7
+"SnaI","GTA^TAC","BspM90I, BssNAI, Bst1107I, BstBSI, BstZ17I, XcaI","SnaI [GTA^TAC]","SnaI",7,7
+"SpeI","A^CTAGT","AclNI, AhlI, BcuI","SpeI [A^CTAGT]","SpeI",7,7
+"SphI","GCATG^C","BbuI, PaeI, PfaAIII, RspLKI, SpaHI","SphI [GCATG^C]","SphI",7,7
+"SplI","C^GTACG","BpuB5I, BvuBI, MaeK81I, Pfl23II, PpuAI, PspLI, SunI","SplI [C^GTACG]","SplI",7,7
+"SrfI","GCCC^GGGC","","SrfI [GCCC^GGGC]","SrfI",7,7
+"Sse232I","CG^CCGGCG","MreI","Sse232I [CG^CCGGCG]","Sse232I",7,7
+"Sse8387I","CCTGCA^GG","SbfI, SdaI","Sse8387I [CCTGCA^GG]","Sse8387I",7,8
+"Sse8647I","AG^GWCCT","","Sse8647I [AG^GWCCT]","Sse8647I",7,8
+"Sth132I","CCCG(4/8)","","Sth132I [CCCG(4/8)]","Sth132I",7,8
+"StuI","AGG^CCT","AatI, AspMI, Eco147I, Eco1524I, GdiI, PceI, Pme55I, SarI, Sru30DI, SseBI, SteI","StuI [AGG^CCT]","StuI",7,8
+"StyI","C^CWWGG","BsmSI, BssT1I, Eco130I, EcoT14I, ErhI, ErhB9II","StyI [C^CWWGG]","StyI",7,8
+"SwaI","ATTT^AAAT","BstRZ246I, BstSWI, MspSWI, SmiI","SwaI [ATTT^AAAT]","SwaI",7,8
+"TagI","AC^GT","","TagI [AC^GT]","TagI",7,8
+"TaqI","T^CGA","PpaAII, Tsp32I, Tsp32II","TaqI [T^CGA]","TaqI",7,8
+"TatI","W^GTACW","","TatI [W^GTACW]","TatI",7,8
+"TauI","GCSG^C","BspUI","TauI [GCSG^C]","TauI",7,8
+"TfiI","G^AWTC","PfeI","TfiI [G^AWTC]","TfiI",7,8
+"TseI","G^CWGC","AceI, SuiI, Taq52I","TseI [G^CWGC]","TseI",7,8
+"Tsp45I","^GTSAC","Hpy51I, NmuCI, TseFI","Tsp45I [^GTSAC]","Tsp45I",7,8
+"Tsp4CI","ACN^GT","Bst4CI, HpyCH4III, TaaI","Tsp4CI [ACN^GT]","Tsp4CI",7,8
+"TspDTI","ATGAA(11/9)","","TspDTI [ATGAA(11/9)]","TspDTI",7,8
+"TspEI","^AATT","TasI","TspEI [^AATT]","TspEI",7,8
+"TspRI","CASTGNN^","TscAI","TspRI [CASTGNN^]","TspRI",7,8
+"Tth111I","GACN^NNGTC","AspI, AtsI, BgiI, PflFI, PsyI, TelI","Tth111I [GACN^NNGTC]","Tth111I",7,8
+"VspI","AT^TAAT","AsnI, BpoAI, PshBI, Sru4DI","VspI [AT^TAAT]","VspI",7,8
+"XbaI","T^CTAGA","BspAAII","XbaI [T^CTAGA]","XbaI",7,8
+"XhoI","C^TCGAG","AbrI, BluI, BspAAI, CcrI, EscI, MavI, MlaAI, PanI, SauLPII, Sbi68I, Sfr274I, SlaI, Sol10179I, StrI, XpaI","XhoI [C^TCGAG]","a_XhoI",7,8
+"XhoI","CTC^GAG","SciI","XhoI [CTC^GAG]","b_XhoI",7,8
+"XhoII","R^GATCY","BloHI, BstX2I, DsaIII, MflI, MspNII, PsuI, Tru201I","XhoII [R^GATCY]","XhoII",7,8
+"XmaIII","C^GGCCG","AaaI, BseX3I, BstZI, EclXI, Eco52I, SenPT16I","XmaIII [C^GGCCG]","XmaIII",7,8
+"XmnI","GAANN^NNTTC","Asp700I, BbvAI, MroXI, PdmI","XmnI [GAANN^NNTTC]","XmnI",7,8
